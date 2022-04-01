@@ -12,11 +12,11 @@ import cv2
 
 # Path to Img.
 
-img = cv2.imread('/home/pi/george/coding_place/python/projects/face_tracking/img.jpg')
+img = cv2.imread('img.jpg')
 
 # Path to Cascade Classifier.
 
-cascade = cv2.CascadeClassifier('/home/pi/george/coding_place/python/projects/face_tracking/haarcascade_frontalface_default.xml')
+cascade = cv2.CascadeClassifier('haarcascade_frontalface_default.xml')
 
 # Converting BGR to GRAY.
     
