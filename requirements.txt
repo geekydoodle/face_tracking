@@ -1,5 +1,0 @@
-# OpenCV
-
-opencv-contrib-python==4.5.5.62
-
-# opencv-python==4.5.5.62
