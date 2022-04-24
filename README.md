@@ -77,3 +77,19 @@ pip3.7 install opencv-contrib-python==4.5.5.62
 ```
 pip3.7 install opencv-python==4.5.5.62
 ```
+
+<h2>9. Run script</h2>
+
+<p>For webcam</p>
+
+```
+python3.7 face_tracking_on_webcam.py
+```
+
+<p>For img</p>
+
+```
+python3.7 face_tracking_on_img.py
+```
+
+<p>Happy Computer Visioning!!!!!</p>
