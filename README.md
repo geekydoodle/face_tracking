@@ -6,7 +6,7 @@
 
 <h2>Versions that I am using.</h2>
 
-<p>In my case I am using Python 3.7.3, If you want to download Python 3.7.3 on Windows, Mac and Linux go to https://www.python.org/downloads/ and download it and for the OpenCV I am using OpenCV 4.5.5.62 because I am using Python 3.7.3 if you are using some other version of python you might need to play around with the OpenCV version.</p>
+<p>In my case I am using Python 3.7.3, If you want to download Python 3.7.3 go to https://www.python.org/downloads/ and download it and for the OpenCV I am using OpenCV 4.5.5.62 because I am using Python 3.7.3 if you are using some other version of python you might need to play around with the OpenCV version.</p>
 
 <h2>1. Update and Upgrade your pi.</h2>
 
@@ -48,16 +48,8 @@ python3.7 -m venv name_of_venv
 
 <h2>7. Activate the venv</h2>
 
-<p>On Linux and Mac</p>
-
 ```
 source name_of_env/bin/activate
-```
-
-<p>On Windows</p>
-
-```
-source name_of_env/Scripts/activate
 ```
 
 <p>After activating the venv you should see a pop up on your terminal on Linux like:<br>(test) pi@raspberrypi:~ $</p>
