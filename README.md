@@ -75,7 +75,7 @@ pip3.7 install opencv-python==4.5.5.62
 <p>For webcam</p>
 
 ```
-python3.7 face_tracking_on_webcam.pyA
+python3.7 face_tracking_on_webcam.py
 ```
 
 <p>For img</p>
