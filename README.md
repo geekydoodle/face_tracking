@@ -52,7 +52,7 @@ python3.7 -m venv name_of_venv
 source name_of_env/bin/activate
 ```
 
-<p>After activating the venv you should see a pop up on your terminal on Linux like:<br>(test) pi@raspberrypi:~ $</p>
+<p>After activating the venv you should see a pop up on your terminal like:<br>(test) pi@raspberrypi:~ $</p>
 
 <h2>8. Install OpenCV</h2>
 
