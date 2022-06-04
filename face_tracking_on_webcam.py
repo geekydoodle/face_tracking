@@ -16,7 +16,7 @@ cap = cv2.VideoCapture(0)
 
 # Path to Cascade Classifier.
 
-cascade = cv2.CascadeClassifier('/home/pi/george/coding_place/python/projects/face_tracking/haarcascade_frontalface_default.xml')
+cascade = cv2.CascadeClassifier('haarcascade_frontalface_default.xml')
 
 # height and width.
 
