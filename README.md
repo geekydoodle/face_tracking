@@ -8,16 +8,21 @@
 
 <p>In my case I am using Python 3.7.3, If you want to download Python 3.7.3 go to https://www.python.org/downloads/ and download it and for the OpenCV I am using OpenCV 4.5.5.62 because I am using Python 3.7.3 if you are using some other version of python you might need to play around with the OpenCV version.</p>
 
-<h2>1. Update and Upgrade your pi.</h2>
+<h2>0. Update and Upgrade your pi.</h2>
 
 ```
 sudo apt-get update && sudo apt-get upgrade
 ```
 
- <h2>2. Simple method of installing Python 3.7 on Raspberry pi.</h2>
+ <h2>1. Simple method of installing Python 3.7 on Raspberry pi.</h2>
 
 ```
 sudo apt-get install python3.7
+```
+<h2>2. Install Git</h2>
+
+```
+sudo apt-get install git
 ```
 
 <h2>3. Clone the repository.</h2>
